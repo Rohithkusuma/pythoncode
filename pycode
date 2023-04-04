@@ -9,4 +9,4 @@ print("Multiplication of 3  numbers:", result)
 def sub(a,b):
     sub=a-b
     return sub
-print("subtraction of two numbers:", sub(5,3))
+print("sub of two numbers:", sub(5,3))

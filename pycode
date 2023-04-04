@@ -6,4 +6,7 @@ result = p * q * r;
 
 print("Multiplication of 3  numbers:", result)
 
-
+def sub(a,b):
+    sub=a-b
+    return sub
+print("sub of two numbers:", sub(5,3))

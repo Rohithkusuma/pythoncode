@@ -4,6 +4,6 @@ r = int(input("Enter third number: "))
 
 result = p * q * r;
 
-print("Multiplication of three numbers:", result)
+print("Multiplication of 3  numbers:", result)
 
 

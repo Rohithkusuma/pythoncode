@@ -1,7 +1,9 @@
 p = int(input("Enter first number: "))
 q = int(input("Enter second number: "))
+r = int(input("Enter third number: "))
 
-result = p * q;
+result = p * q * r;
 
-print("Multiplication of two numbers:", result)
+print("Multiplication of three numbers:", result)
+
 
